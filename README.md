@@ -1,4 +1,5 @@
 # Cemadevolper
 juegos en desarrollo:
-knignth of the nigth
-
+whopeer castlewhopeer-compatible:
+android:(muy pronto)
+pc o web: (esta en desarollo)
